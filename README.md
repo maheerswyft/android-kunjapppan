@@ -1,5 +1,22 @@
 
-### Hi there 👋
+### Hi there 👋, I'm Mohammed Maheer - aka [android-kunjappan](https://android-kunjapppan.github.io/Mohammed-Maheer/)
+
+
+## I'm a Student!
+- 🔭 I’m currently working on GAN's
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking for oppurtunities in the Data Science Field
+- 🥅 2020 Goals: 
+- ⚡ Fun fact: I love to play cricket and chess
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://android-kunjapppan.github.io/Mohammed-Maheer/" />][https://android-kunjapppan.github.io/Mohammed-Maheer]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
