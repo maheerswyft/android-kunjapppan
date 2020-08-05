@@ -34,4 +34,3 @@
 <br />
 
 
-<img align="left" alt=Mohammed Maheer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=android-kunjapppan&show_icons=true&hide_border=true" />
