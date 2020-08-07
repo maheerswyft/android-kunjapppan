@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Mohammed Maheer - aka [android-kunjappan](https://android-kunjapppan.github.io/Mohammed-Maheer/)
+## Hi there 👋, I'm Mohammed Maheer - aka [android-kunjappan](https://android-kunjapppan.github.io/Mohammed-Maheer/)
 
 
 ## I'm a Student!
