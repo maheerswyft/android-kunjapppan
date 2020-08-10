@@ -8,7 +8,7 @@ Currently open to positions in Data Science, Machine Learning, Deep learning and
 - 🔭 I’m currently working on GAN's
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for oppurtunities in the Data Science Field
-- 🥅 2020 Goals: 
+- 🥅 2020 Goals: Rubic's Cube Solver
 - ⚡ Fun fact: I love to play cricket and chess
 
 # My Skills 💻
