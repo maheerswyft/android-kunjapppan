@@ -24,6 +24,7 @@ Currently open to positions in Data Science, Machine Learning, Deep learning and
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
+
 <br />
 <br />
 
@@ -33,6 +34,7 @@ Currently open to positions in Data Science, Machine Learning, Deep learning and
 <img align="left" alt="Git - GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 <img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<img align="left" alt="fastai" width="40px" src="http://www.fast.ai/images/Fast.ai.png" />
 
 <br/>
 <br/>
