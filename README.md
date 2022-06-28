@@ -1,11 +1,8 @@
 
 # Hi there 👋, I'm Mohammed Maheer - aka [android-kunjappan](https://android-kunjapppan.github.io/Mohammed-Maheer/)
-**Budding Data Scientist with Full-stack development skills, skilled in handling and telling data driven stories, with various projects done in Data Science.<br>
-Currently open to positions in Data Science, Machine Learning, Deep learning and related fields.**
 
 
 # I'm a Student! 🚀
-- 🔭 I’m currently working on GAN's
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for oppurtunities
 - 🥅 2020 Goals: Rubic's Cube Solver
